@@ -7,6 +7,8 @@ public class Main_1{
 		System.out.println("Enter 2nd value: ");
 		int b = sc.nextInt();	
 		System.out.println("Addition of 2 numbers is: " + (a + b));	
-		// Write below
+		 {
+        System.out.println("Hello, World");
+    }
 	}	
 }
