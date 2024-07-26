@@ -8,5 +8,13 @@ public class Main_1{
 		int b = sc.nextInt();	
 		System.out.println("Addition of 2 numbers is: " + (a + b));	
 		// Write below
+
+		if(a > b){
+			System.out.println(a + "is greater);
+		}
+		else{
+			System.out.println(b + "is greater);
+		}
+
 	}	
 }
