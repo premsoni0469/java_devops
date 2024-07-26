@@ -12,10 +12,10 @@ public class Main_1{
 		 System.out.println("Division of the numbers is: "+(a/b));
 		System.out.println("percentage is "+ (a/b * 100));
 		if(a > b){
-			System.out.println(a + "is greater);
+			System.out.println(a + "is greater ");
 		}
 		else{
-			System.out.println(b + "is greater);
+			System.out.println(b + "is greater ");
 		}
  {
         System.out.println("Hello, World");
