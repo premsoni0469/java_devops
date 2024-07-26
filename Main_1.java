@@ -10,7 +10,7 @@ public class Main_1{
 		System.out.println("Subtraction of 2 numbers is: " + (a - b));
 		System.out.println("Multiplication of 2 numbers is: " + (a * b));
 		 System.out.println("Division of the numbers is: "+(a/b));
-		System.out.println("percentage is "+ (a/b * 100));
+		System.out.println("percentage is "+ (a/b) * 100);
 		if(a > b){
 			System.out.println(a + "is greater ");
 		}
