@@ -6,6 +6,10 @@ public class Main_1{
 		int a = sc.nextInt();
 		System.out.println("Enter 2nd value: ");
 		int b = sc.nextInt();	
+
+		System.out.println("Addition of 2 numbers is: " + (a + b));	
+		System.out.println("percentage of 2 numbers is : "+(a/b * 100);
+
 		System.out.println("Addition of 2 numbers is: " + (a + b));
 		System.out.println("Subtraction of 2 numbers is: " + (a - b));
 		System.out.println("Multiplication of 2 numbers is: " + (a * b));
@@ -17,6 +21,7 @@ public class Main_1{
 		else{
 			System.out.println(b + "is greater);
 		}
+
 
 	}	
 }
